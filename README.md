@@ -5,7 +5,7 @@ App Android para descobrir quem você segue no Instagram, mas não te segue de v
 ## Como usar
  
 1. **Baixe seus dados no Instagram**
-   No Instagram, abra a opção de exportar suas informações (Central de Contas > Suas informações e permissões > Exportar suas informações), escolha **Seguidores e seguindo** e o formato **JSON**. Quando o arquivo ficar pronto, baixe e extraia o zip.
+   No Instagram, abra a opção de exportar suas informações (Central de Contas > Suas informações e permissões > Exportar suas informações), escolha **Seguidores e seguindo**, Intervalo de datas **Desde o início** e o formato **JSON**. Quando o arquivo ficar pronto, baixe e extraia o zip.
 2. **Pegue os dois arquivos**
    Dentro da pasta extraída, em `connections/followers_and_following/`:
    - `following.json` (quem você segue)
